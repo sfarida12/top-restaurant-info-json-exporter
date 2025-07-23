@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Top 10 Restaurants Scraper
 
 ## 🔍 Description
@@ -20,3 +21,7 @@ The user to enter a city name and retrieves the top 10 restaurants in that city 
 ## 🧠 Challenges
 - Google doesn't allow scraping directly, hence used SerpAPI.
 - Free API tier is limited to 100 searches/month.
+=======
+# top-restaurant-info-json-exporter
+ A python project Automated tool to fetch top restaurants by city, including addresses, ratings, and food-related review snippets, saved in JSON format.
+>>>>>>> 457052dbb171a01955b77a9712b8a48816fc50f1
