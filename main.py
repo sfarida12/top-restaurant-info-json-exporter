@@ -3,7 +3,7 @@ import json
 import time
 
 # SerpAPI Key
-API_KEY = "a6e293908c2b292d884749d659df51f181d25f3d01f573dc826e72b6b0d26f86"
+API_KEY = ""
 
 def get_top_restaurants(city):
     """
